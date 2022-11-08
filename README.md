@@ -1,5 +1,5 @@
 # Cocktails-ReactProject
-### Hosting (Netlify) - https://cocktails-project-111.netlify.app
+### Hosting (Netlify) - https://cocktails-db-project-111.netlify.app
 
 #### React and other features - React Router, useState, useEffect, useCallback, useContext, useRef, conditional rendering, fetch API (https://www.thecocktaildb.com)
 
